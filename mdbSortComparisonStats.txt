@@ -1,0 +1,7 @@
+										Iterations		 Tot Tests			Tot Swaps			Run Time
+basic no window			       108		 830463757			 64901032			0:09:21.110638
+basic window 10			       133		1001560303			 79384230			0:11:30.246290
+modified no window	        39		 640586622			 76909330			0:07:28.821597
+modified window 10	        63		 695683035			 79660718			0:08:04.928739
+bug no window				        17		 228192638			 29321418			0:02:32.889022
+bug window 10				        17		 191789815			 32935626			0:02:17.304426
